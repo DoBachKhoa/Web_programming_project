@@ -1,0 +1,82 @@
+.square {
+  width: 1.2vw;
+  height: 1.2vw;
+  padding: 2.2vw 2.5vw 2.8vw;
+  color: white;
+  background-color: #3399FF;
+  display: inline-block;
+  margin: 0.1vw;
+  text-align: center;
+  vertical-align: top;
+}
+
+.clicked {
+  background-color: #0080FF;
+}
+
+.result {
+  margin-top: 3vw;
+  width: 4vw;
+  padding: 2.2vw 1.1vw 2.8vw;
+}
+
+.results {
+  display: inline-block;
+  margin: 0vw 3vw;
+  vertical-align: top;
+}
+
+.square2 {
+  width: 1.2vw;
+  height: 1.2vw;
+  padding: 2.5vw;
+  color: white;
+  background-color: #3399FF;
+  display: inline-block;
+  margin: 0.1vw;
+  text-align: center;
+  vertical-align: top;
+}
+
+.rulebox {
+  display: block;
+  background-color: #3399FF;
+  color: white;
+  height: 24.2vw;
+  width: 23.3vw;
+  padding: 1vw 1vw 2vw 1vw;
+  text-align: left;
+  margin: 0.1vw;
+  font-size: 1vw;
+}
+
+.button {
+  display: inline-block;
+  margin: 0.1vw;
+  height: 1.5vw;
+  width: 4.56vw;
+  color: white;
+  padding: 1vw 1.87vw;
+  text-align: center;
+  background-color: #3399FF;
+  font-size: 1vw;
+}
+
+.gray {
+  background-color: lightgray;
+}
+
+.hover:hover {
+  cursor: pointer;
+  background-color: #0080FF;
+}
+
+.play {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.action {
+  display: inline-block;
+}
+

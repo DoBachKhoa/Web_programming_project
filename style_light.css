@@ -1,0 +1,76 @@
+.square {
+    display: inline-block;
+    background-color: #3399FF;
+    color: #3399FF;
+    min-width: 7.8vw;
+    min-height: 7.8vw;
+    margin: 0.1vw;
+    text-align: center;
+    border-width: 0px;
+    border: none;
+}
+
+.button {
+    display: inline-block;
+    margin: 0.1vw;
+    height: 1.5vw;
+    width: 4.56vw;
+    color: white;
+    padding: 1vw;
+    text-align: center;
+    background-color: #3399FF;
+    font-size: 1vw;
+}
+
+.hover:hover {
+    cursor: pointer;
+    background-color: #0080FF;
+}
+
+.hover1:hover {
+    cursor: pointer;
+    background-color: #0080FF;
+    color: #0080FF;
+}
+
+.move {
+    display: inline-block;
+    background-color: lightgray;
+    text-align: left;
+    padding-left: 1.5vw;
+    width: 9.3vw;
+    font-size: 1vw;
+}
+
+.canvas {
+    display:inline-block;
+    text-align: center;
+    font-size: 1vw;
+}
+
+.rulebox {
+    display: inline-block;
+    background-color: #3399FF;
+    color: white;
+    height: 12vw;
+    width: 23.3vw;
+    padding: 1vw 1vw 2vw 1vw;
+    text-align: left;
+    margin: 0.1vw;
+    font-size: 1vw;
+}
+
+.gray {
+    background-color: lightgray;
+    color: lightgray;
+}
+
+.gray1 {
+    background-color: lightgray;
+    color: white;
+}
+
+.gray:hover {
+    background-color: gray;
+    color: gray
+}
